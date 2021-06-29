@@ -1,0 +1,96 @@
+{
+  "loadLate": true,
+	  "spouseRooms": [
+	{
+      "name": "Lunna",
+	  "file": "assets/SpouseRoomLunna.tmx",
+    },
+	{
+      "name": "Bianka",
+	  "file": "assets/SpouseRoomBianka.tmx",
+    },
+	{
+      "name": "Raphael",
+	  "file": "assets/SpouseRoomRaphael.tmx",
+    }
+  ],
+
+		"shops": [
+		{
+			"id": "OddiShop",
+			"inventory": [
+				{
+				"name":"Umuwi Rambutan Sapling",
+				"type":"Object",
+				"price":7000
+				},
+				{
+				"name":"Umuwi Lanzones Sapling",
+				"type":"Object",
+				"price":5000
+				},
+				{
+				"name":"Pale Berry Seeds",
+				"type":"Object",
+				"price":110
+				},
+				{
+				"name":"Eggroot Seeds",
+				"type":"Object",
+				"price":180
+				},
+				{
+				"name":"Sour Potato Seeds",
+				"type":"Object",
+				"price":70
+				},
+				{
+				"name":"Thorn Pepper Seeds",
+				"type":"Object",
+				"price":100
+				},
+				{
+				"name":"Ghost Cabbage Seeds",
+				"type":"Object",
+				"price":100
+				},
+				{
+				"name":"Rare Seed",
+				"type":"Object",
+				"price":1500
+				},
+				{
+				"name":"Void Egg",
+				"type":"Object",
+				"price":4800
+				},
+			],
+			"portraits": [
+				"assets/OddiShop.png",
+				],
+		},
+		{
+			"id": "RaphShop",
+			"inventory": [
+				{
+				"name":"Void Essence",
+				"type":"Object",
+				"price":5
+				},
+				{
+				"name":"Void Blessed Hammer",
+				"type":"MeleeWeapon",
+				"price":2000000
+				},
+				{
+				"name":"Void Blessed Sword",
+				"type":"MeleeWeapon",
+				"price":2000000
+				},
+			],
+			"portraits": [
+				"assets/RaphShop.png",
+				],
+		},
+		]
+}
