@@ -3,8 +3,8 @@
   
   "mergeMaps": [
     {
-      "name": "Forest",
-      "file": "assets/LunnaForest.tbin",
+    "name": "Forest",
+    "file": "assets/LunnaForest.tbin",
 	  "sourceArea": [0,30,4,10],
 	  "position": [0,30]
     }

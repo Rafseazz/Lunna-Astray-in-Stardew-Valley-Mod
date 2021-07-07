@@ -1,5 +1,13 @@
 {
   "loadLate": true,
+    "mergeMaps": [
+    {
+    "name": "Forest",
+    "file": "assets/LunnaLakeEntrance.tbin",
+    "sourceArea": [0,0,6,7],
+    "position": [3,0],
+    }
+  ],
 	  "spouseRooms": [
 	{
       "name": "Lunna",
