@@ -618,6 +618,7 @@
   "event-75160016.75160016_Talk.09": "I really had fun today! Hope you enjoy your visit to Umuwi!$h",
   "event-75160016.NoTourBianka.01": "It wouldn't be fun hanging out with a talkative person like me.$s",
   "event-75160016.NoTourBianka.02": "I better go now. I have to do something. Hope at least you enjoy your visit here in Umuwi.$0",
+  "event-75160016.NoTourBianka.03": "Oh hey... I should keep my mouth shut or else you'd not talk to me again or something..$s",
 
 //Bianka 4 Hearts Event: Bianka's missed magic practices
   "event-75160017.01": "Here Bellia, let me help you with that.$h",
@@ -730,6 +731,7 @@
   "event-75160019.58": "I want to be a normal girl now..$10#$b#All this magic in my life is not making me happy anymore... I always feel like I'm being someone I am not... I don't want this... I want to be free from this.. to be happy..$10",
   "event-75160019.59": "Bianks...$s",
   "event-75160019.60": "Bianka's magic is overflowing!",
+  "event-75160019.60.5": "Bianka! Your magic! It's going wild!$a",
   "event-75160019.61": "Bianka... I never knew...$s",
   "event-75160019.62": "Mom?.. I... I...$10",
   "event-75160019.63": "Mom??$10",
@@ -1794,6 +1796,7 @@
   "intermod.event-75160016.75160016_Talk.09": "I really had fun today! Hope you enjoy your visit to Umuwi!$h",
   "intermod.event-75160016.NoTourBianka.01": "It wouldn't be fun hanging out with a talkative person like me.$s",
   "intermod.event-75160016.NoTourBianka.02": "I better go now. I have to do something. Hope at least you enjoy your visit here in Umuwi.$0",
+  "intermod.event-75160016.NoTourBianka.03": "Oh hey... I should keep my mouth shut or else you'd not talk to me again or something..$s",
   "intermod.event-75160022.01": "@!! Such timing! I was about to come to get you!$h",
   "intermod.event-75160022.02": "What's up? Oh!#$b#Today's going to be my removal of magic ritual!$h#$b#I'm finally going to get what I want @.#$b#I'm really nervous I don't know why... Is it me worrying about the after-effects? Will I still look the same? Am I really doing this? @ hold me close... Is this really it!?.$s",
   "intermod.event-75160022.03": "Oops!$u#$b#There I go again rambling on and on.$s#$b#I'm sorry I'm just so nervous @..$s",
