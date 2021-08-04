@@ -25,6 +25,10 @@
 	 {
 	  "UniqueID": "Esca.CustomNPCExclusions",
 	  "IsRequired": true
-	 }
+	 },
+	 {
+	  "UniqueID": "SEnhanced.Forest",
+	  "IsRequired": false
+	 },
 	]
 }

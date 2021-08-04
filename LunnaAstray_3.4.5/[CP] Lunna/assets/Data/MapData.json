@@ -135,7 +135,8 @@
 			"ToArea": { "X": 0, "Y": 0, "Width": 15, "Height": 11},
 			"When": {
 				"HasSeenEvent": "75160003"
-			}
+			},
+			"Update": "OnLocationChange"
 		},
 		{
 			"Action": "EditMap",
@@ -145,7 +146,8 @@
 			"ToArea": { "X": 13, "Y": 14, "Width": 3, "Height": 3},
 			"When": {
 				"HasSeenEvent": "75160009"
-			}
+			},
+			"Update": "OnLocationChange"
 		},
 		{
 			"Action": "EditMap",
@@ -155,7 +157,8 @@
 			"ToArea": { "X": 13, "Y": 14, "Width": 3, "Height": 3},
 			"When": {
 				"HasSeenEvent": "75160013"
-			}
+			},
+			"Update": "OnLocationChange"
 		},
 		{
 			"Action": "EditMap",
@@ -165,7 +168,8 @@
 			"ToArea": { "X": 14, "Y": 4, "Width": 3, "Height": 8},
 			"When": {
 				"HasSeenEvent": "75160021"
-			}
+			},
+			"Update": "OnLocationChange"
 		},
 		{
 			"Action": "EditMap",
@@ -175,7 +179,8 @@
 			"ToArea": { "X": 21, "Y": 9, "Width": 3, "Height": 5},
 			"When": {
 				"HasSeenEvent": "75160021"
-			}
+			},
+			"Update": "OnLocationChange"
 		},
 		{
 			"Action": "EditMap",
@@ -185,7 +190,8 @@
 			"ToArea": { "X": 69, "Y": 30, "Width": 1, "Height": 3},
 			"When": {
 				"HasSeenEvent": "75160035"
-			}
+			},
+			"Update": "OnLocationChange"
 		},
 
 		//Load Tilesheets-------------------------------------------

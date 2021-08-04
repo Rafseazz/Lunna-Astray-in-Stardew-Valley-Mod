@@ -14,7 +14,8 @@
 			},
 			"When": {
 				"HasMod: |contains=DaisyNiko.SVR2": true,
-			}
+			},
+			"Update": "OnLocationChange"
 		},
 		{
 			"LogName": "SDV Enhanced - WizardTower Patch for West Forest",
@@ -29,7 +30,8 @@
 			},
 			"When": {
 				"HasMod: |contains=SEnhanced.Forest": true,
-			}
+			},
+			"Update": "OnLocationChange"
 		},
 		//Ran's Harvest Goddess Patch------------------------------------
 		{
