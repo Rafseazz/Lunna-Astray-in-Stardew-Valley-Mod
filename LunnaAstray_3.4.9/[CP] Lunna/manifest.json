@@ -27,6 +27,10 @@
 	  "IsRequired": true
 	 },
 	 {
+	  "UniqueID": "Rafseazz.LASVSTF",
+	  "IsRequired": true
+	 },
+	 {
 	  "UniqueID": "SEnhanced.Forest",
 	  "IsRequired": false
 	 },
