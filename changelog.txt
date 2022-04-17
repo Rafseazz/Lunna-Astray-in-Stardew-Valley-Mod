@@ -2,4 +2,8 @@ Added spouse patios built-in the mod
 Removed TMXL as a dependency
 Reduced price of Void Blessed Weapons significantly
 Reduced price of Void Egg in Umuwi significantly
+Fixed artifact spots in LASV maps
+Reworked fish sprites
 (ToDo) Make new sprites
+(ToDo) Lunna sometimes on her shadowfolk appearance when at home(married)
+(ToDo) Double check events i18n

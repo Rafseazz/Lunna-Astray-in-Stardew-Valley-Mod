@@ -836,7 +836,7 @@
         		"spring": "{{EsmeraldaRandomSchedule}}"
         	},
 			"When": {
-				"HasSeenEvent": "75160019",
+				"HasSeenEvent: hostPlayer": 75160019,
 			}
         },
 
@@ -848,7 +848,7 @@
         		"spring": "{{SalvadorRandomSchedule}}"
         	},
 			"When": {
-				"HasSeenEvent": "75160027"
+				"HasSeenEvent: hostPlayer": 75160027
 			}
         },
 
