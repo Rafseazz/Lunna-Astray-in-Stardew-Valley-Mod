@@ -6,5 +6,3 @@ Fixed artifact spots in LASV maps
 Reworked fish sprites
 Reworked character sprites
 Changed so Lunna's events won't play during festival events
-(ToDo) Lunna sometimes on her shadowfolk appearance when at home(married)
-(ToDo) Double check events i18n
