@@ -7,7 +7,8 @@
   "MinimumApiVersion": "3.13.0",
   "UpdateKeys": [ "Nexus:10968" ],
   "ContentPackFor": {
-    "UniqueID": "Pathoschild.ContentPatcher"
+    "UniqueID": "purrplingcat.npcadventure",
+    "MinimumVersion": "1.0.0-alpha"
   },
   "Dependencies": [
     {

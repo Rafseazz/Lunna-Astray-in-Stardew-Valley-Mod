@@ -1,9 +1,9 @@
 ﻿{
   "Changes": [
     {
-      "LogName": "Companion dialogues for Bianka",
+      "LogName": "Companion dialogues for Raphael",
       "Action": "EditData",
-      "Target": "Characters/Dialogue/Bianka",
+      "Target": "Characters/Dialogue/Raphael",
       "Entries": {
         "companionAccepted": "Why I'd be glad to accompany you.#$b#Lead the way.",
         "companionAccepted_Spouse": "Well ofcourse hun I would love to join you. Let's go!#$b#Better prepare your equipment.",

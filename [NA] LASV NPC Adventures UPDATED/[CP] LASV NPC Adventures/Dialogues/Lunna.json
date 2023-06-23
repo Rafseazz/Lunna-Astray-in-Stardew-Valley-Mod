@@ -1,9 +1,9 @@
 ﻿{
   "Changes": [
     {
-      "LogName": "Companion dialogues for Bianka",
+      "LogName": "Companion dialogues for Lunna",
       "Action": "EditData",
-      "Target": "Characters/Dialogue/Bianka",
+      "Target": "Characters/Dialogue/Lunna",
       "Entries": {
         "companionAccepted": "Why I would love to @. Lead the way.$h",
         "companionAccepted_Spouse": "I would be a happy to join you love!$h#$b#Well, lead the way, I shall follow you wherever.$u",
