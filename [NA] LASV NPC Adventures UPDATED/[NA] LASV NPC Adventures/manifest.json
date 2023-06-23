@@ -1,0 +1,20 @@
+﻿{
+  "Name": "LASV to NPC Adventures",
+  "Author": "Rafseazz",
+  "Version": "1.2.0",
+  "Description": "Add LASV NPCs to NPC Adventures",
+  "UniqueID": "Rafseazz.LASVNA",
+  "MinimumApiVersion": "3.13.0",
+  "UpdateKeys": [ "Nexus:10968" ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "purrplingcat.npcadventure"
+    },
+    {
+      "UniqueID": "Rafseazz.LunnaCP"
+    }
+  ]
+}

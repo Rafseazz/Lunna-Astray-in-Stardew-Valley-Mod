@@ -1,8 +1,2 @@
-Added spouse patios built-in the mod
-Removed TMXL as a dependency
-Reduced price of Void Blessed Weapons significantly
-Reduced price of Void Egg in Umuwi significantly
-Fixed artifact spots in LASV maps
-Reworked fish sprites
-Reworked character sprites
-Changed so Lunna's events won't play during festival events
+3.4.11
+Removed Void Essence in Raphael's Shop
