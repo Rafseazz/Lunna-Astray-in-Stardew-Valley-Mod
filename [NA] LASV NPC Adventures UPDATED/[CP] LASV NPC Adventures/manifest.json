@@ -5,7 +5,7 @@
   "Description": "Add LASV NPCs to NPC Adventures",
   "UniqueID": "Rafseazz.LASVNACP",
   "MinimumApiVersion": "3.13.0",
-  "UpdateKeys": [ "Nexus:10968" ],
+  "UpdateKeys": [ "Nexus:???" ],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
   },

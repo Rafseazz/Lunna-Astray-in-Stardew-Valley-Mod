@@ -1,0 +1,614 @@
+{
+	"Changes": [
+
+		//Load Textures
+		{
+			"Action": "Load",
+			"Target": "LASV/Objects",
+			"FromFile": "assets/Objects/Objects.png"
+		},
+
+		//Add fishes
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+
+				"LASV_Dewdrop_Fish": {
+					"Name": "Dewdrop Fish",
+					"Displayname": "Dewdrop Fish",
+					"Description": "An ancient fish named for its shape.",
+					"Type": "Fish",
+					"Category": -4,
+					"Price": 55,
+					"Edibility": 10,
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 0,
+					"ContextTags": [ "fish_dewdrop_fish", "color_blue" ]
+				},
+
+				"LASV_Purple_Spotted_Trout": {
+					"Name": "Purple Spotted Trout",
+					"Displayname": "Purple Spotted Trout",
+					"Description": "A freshwater fish not found in the human world.",
+					"Type": "Fish",
+					"Category": -4,
+					"Price": 155,
+					"Edibility": 20,
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 1,
+					"ContextTags": [ "fish_purple_spotted_trout", "color_purple" ]
+				},
+
+				"LASV_Relicantlette": {
+					"Name": "Relicantlette",
+					"Displayname": "Relicantlette",
+					"Description": "A common fish found in ancient lakes.",
+					"Type": "Fish",
+					"Category": -4,
+					"Price": 50,
+					"Edibility": 10,
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 2,
+					"ContextTags": [ "fish_relicantlette", "color_green" ]
+				},
+
+				"LASV_Serafin": {
+					"Name": "Serafin",
+					"Displayname": "Serafin",
+					"Description": "A pretty fish with wing-like fins.",
+					"Type": "Fish",
+					"Category": -4,
+					"Price": 140,
+					"Edibility": 10,
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 3,
+					"ContextTags": [ "fish_serafin", "color_pink" ]
+				},
+
+				"LASV_Umuwi_Carp": {
+					"Name": "Umuwi Carp",
+					"Displayname": "Umuwi Carp",
+					"Description": "A rare fish found in Umuwi. It seems to radiate magic.",
+					"Type": "Fish",
+					"Category": -4,
+					"Price": 800,
+					"Edibility": 40,
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 4,
+					"ContextTags": [ "fish_umuwi_carp", "color_purple", "color_yellow" ]
+				},
+			}
+		},
+
+		//Add forage
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+
+				"LASV_Umuwi_Aster": {
+					"Name": "Umuwi Aster",
+					"Displayname": "Umuwi Aster",
+					"Description": "A local fall flower that blooms in Umuwi. Comes in many colors.",
+					"Type": "Flower",
+					"Category": -80,
+					"Price": 50,
+					"Edibility": 5,
+					"Buff": {
+						"Duration": 30,
+						"CustomAttributes": {
+							"LuckLevel": 1
+						}
+					},
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 20
+				},
+
+				"LASV_Umuwi_Badak": {
+					"Name": "Umuwi Badak",
+					"Displayname": "Umuwi Badak",
+					"Description": "An ovate orange yam. Has a sweet flavor with a touch of chestnut.",
+					"Type": "Vegetable",
+					"Category": -75,
+					"Price": 60,
+					"Edibility": 10,
+					"Buff": {
+						"Duration": 30,
+						"CustomAttributes": {
+							"FarmingLevel": 1,
+							"FishingLevel": 1
+						}
+					},
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 21
+				},
+
+				"LASV_Umuwi_Calamansi": {
+					"Name": "Umuwi Calamansi",
+					"Displayname": "Umuwi Calamansi",
+					"Description": "A small round citrus fruit that is found in the fields of Umuwi all year round.",
+					"Type": "Fruit",
+					"Category": -79,
+					"Price": 50,
+					"Edibility": 5,
+					"Buff": {
+						"Duration": 30,
+						"CustomAttributes": {
+							"MiningLevel": 1,
+							"Speed": 1
+						}
+					},
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 22
+				},
+
+				"LASV_Umuwi_Makahiya": {
+					"Name": "Umuwi Makahiya",
+					"Displayname": "Umuwi Makahiya",
+					"Description": "A thorny flower with leaves that shut close whenever it is touched.",
+					"Type": "Flower",
+					"Category": -80,
+					"Price": 90,
+					"Edibility": 5,
+					"Buff": {
+						"Duration": 30,
+						"CustomAttributes": {
+							"MaxStamina": 25
+						}
+					},
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 23
+				},
+
+				"LASV_Umuwi_Olive": {
+					"Name": "Umuwi Olive",
+					"Displayname": "Umuwi Olive",
+					"Description": "A variant of olive that has a spicy aftertaste!",
+					"Type": "Fruit",
+					"Category": -79,
+					"Price": 50,
+					"Edibility": 5,
+					"Buff": {
+						"Duration": 30,
+						"CustomAttributes": {
+							"Attack": 1,
+							"MaxStamina": 10
+						}
+					},
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 24
+				},
+
+				"LASV_Umuwi_Poinsettia": {
+					"Name": "Umuwi Poinsettia",
+					"Displayname": "Umuwi Poinsettia",
+					"Description": "A flower that blooms in the cold dirt of Umuwi. Popular among female shadowfolk and werewolves.",
+					"Type": "Flower",
+					"Category": -80,
+					"Price": 60,
+					"Edibility": 5,
+					"Buff": {
+						"Duration": 30,
+						"CustomAttributes": {
+							"MaxStamina": 10,
+							"ForagingLevel": 1
+						}
+					},
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 25
+				},
+
+				"LASV_Umuwi_Sampaguita": {
+					"Name": "Umuwi Sampaguita",
+					"Displayname": "Umuwi Sampaguita",
+					"Description": "A local summer flower that blooms in Umuwi. Has a faint fragrance to it.",
+					"Type": "Flower",
+					"Category": -80,
+					"Price": 50,
+					"Edibility": 5,
+					"Buff": {
+						"Duration": 30,
+						"CustomAttributes": {
+							"MagneticRadius": 20,
+						}
+					},
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 26
+				},
+			}
+		},
+
+		//Add crops
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+
+				"LASV_Eggroot": {
+					"Name": "Eggroot",
+					"Displayname": "Eggroot",
+					"Description": "An egg-shaped root crop that has a rich and savory flavor.",
+					"Type": "Vegetable",
+					"Category": -75,
+					"Price": 255,
+					"Edibility": 50,
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 10
+				},
+
+				"LASV_Ghost_Cabbage": {
+					"Name": "Ghost Cabbage",
+					"Displayname": "Ghost Cabbage",
+					"Description": "You can almost see through its leaves.",
+					"Type": "Vegetable",
+					"Category": -75,
+					"Price": 200,
+					"Edibility": 50,
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 11
+				},
+
+				"LASV_Pale_Berry": {
+					"Name": "Pale Berry",
+					"Displayname": "Pale Berry",
+					"Description": "A pale purple-colored berry that has a soothing sweet aftertaste.",
+					"Type": "Fruit",
+					"Category": -79,
+					"Price": 100,
+					"Edibility": 30,
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 12
+				},
+
+				"LASV_Sour_Potato": {
+					"Name": "Sour Potato",
+					"Displayname": "Sour Potato",
+					"Description": "A variation of potato grown in Umuwi. It tastes sour.",
+					"Type": "Vegetable",
+					"Category": -75,
+					"Price": 70,
+					"Edibility": 50,
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 13
+				},
+
+				"LASV_Thorn_Pepper": {
+					"Name": "Thorn Pepper",
+					"Displayname": "Thorn Pepper",
+					"Description": "A thorny and bitter species of pepper.",
+					"Type": "Fruit",
+					"Category": -79,
+					"Price": 50,
+					"Edibility": 20,
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 14
+				},
+			}
+		},
+
+		//Add tree fruits
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+
+				"LASV_Umuwi_Lanzones": {
+					"Name": "Umuwi Lanzones",
+					"Displayname": "Umuwi Lanzones",
+					"Description": "A small fruit high in antioxidants, vitamins, and protein.",
+					"Type": "Fruit",
+					"Category": -79,
+					"Price": 155,
+					"Edibility": 50,
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 8
+				},
+
+				"LASV_Umuwi_Rambutan": {
+					"Name": "Umuwi Rambutan",
+					"Displayname": "Umuwi Rambutan",
+					"Description": "A red, plum-sized fruit with soft spines and a slightly acidic taste.",
+					"Type": "Fruit",
+					"Category": -79,
+					"Price": 190,
+					"Edibility": 31,
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 9
+				},
+			},
+		},
+
+		//Add items with crafting recipes
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+
+				"LASV_EmbraceFruit": {
+					"Name": "EmbraceFruit",
+					"Displayname": "EmbraceFruit",
+					"Description": "A fruit as warm as Bianka's presence. It seems to reduce pain for a few seconds.",
+					"Type": "Crafting",
+					"Category": -8,
+					"Price": 10,
+					"Edibility": 5,
+					"Buff": {
+						"Duration": 10,
+						"CustomAttributes": {
+							"Defense": 15
+						}
+					},
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 5
+				},
+
+				"LASV_HastePill": {
+					"Name": "HastePill",
+					"Displayname": "HastePill",
+					"Description": "A magic pill of haste formulated by Raphael and you. Gives extreme speed for a few seconds.",
+					"Type": "Crafting",
+					"Category": -8,
+					"Price": 10,
+					"Edibility": 5,
+					"Buff": {
+						"Duration": 10,
+						"CustomAttributes": {
+							"Speed": 10
+						}
+					},
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 6
+				},
+
+				"LASV_LuckyMint": {
+					"Name": "LuckyMint",
+					"Displayname": "LuckyMint",
+					"Description": "A mint candy imbued with Lunna's ancient magic. It increases luck dramatically for a short period of time.",
+					"Type": "Crafting",
+					"Category": -8,
+					"Price": 10,
+					"Edibility": 5,
+					"Buff": {
+						"Duration": 10,
+						"CustomAttributes": {
+							"LuckLevel": 15
+						}
+					},
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 7
+				},
+			},
+		},
+
+		//Crafting Recipes
+		{
+			"Action": "EditData",
+			"Target": "Data/CraftingRecipes",
+			"Entries": {
+				"EmbraceFruit": "66 1 LASV_Umuwi_Lanzones 5/Home/LASV_EmbraceFruit 1/false/null",
+				"HastePill": "768 5 LASV_Umuwi_Rambutan 5/Home/LASV_HastePill 1/false/null",
+				"LuckyMint": "LASV_Serafin 1 LASV_Pale_Berry 7/Home/LASV_LuckyMint 1/false/null",
+			}
+		},
+
+		//Add items with cooking recipes
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+
+				"LASV_Pale_Berry_Pie": {
+					"Name": "Pale Berry Pie",
+					"Displayname": "Pale Berry Pie",
+					"Description": "A pie filled with Umuwi's Pale Berries. It has a very sweet aftertaste!",
+					"Type": "Cooking",
+					"Category": -7,
+					"Price": 300,
+					"Edibility": 80,
+					"Buff": {
+						"Duration": 300,
+						"CustomAttributes": {
+							"MaxStamina": 64,
+							"Speed": 3
+						}
+					},
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 15
+				},
+
+				"LASV_Sour_Hashbrown": {
+					"Name": "Sour Hashbrown",
+					"Displayname": "Sour Hashbrown",
+					"Description": "A unique-tasting potato made into a hashbrown!",
+					"Type": "Cooking",
+					"Category": -7,
+					"Price": 250,
+					"Edibility": 50,
+					"Buff": {
+						"Duration": 200,
+						"CustomAttributes": {
+							"MiningLevel": 2,
+							"FishingLevel": 2,
+							"ForagingLevel": 3
+						}
+					},
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 16
+				},
+
+				"LASV_Umuwi_Mash": {
+					"Name": "Umuwi Mash",
+					"Displayname": "Umuwi Mash",
+					"Description": "A spicy, starchy mash good for a cold winter day!",
+					"Type": "Cooking",
+					"Category": -7,
+					"Price": 300,
+					"Edibility": 80,
+					"Buff": {
+						"Duration": 300,
+						"CustomAttributes": {
+							"MiningLevel": 2,
+							"FarmingLevel": 2,
+							"Attack": 3
+						}
+					},
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 17
+				},
+
+				"LASV_Umuwi_Salad": {
+					"Name": "Umuwi Salad",
+					"Displayname": "Umuwi Salad",
+					"Description": "A salad made with Umuwi produce. It has a sweet savory taste!",
+					"Type": "Cooking",
+					"Category": -7,
+					"Price": 400,
+					"Edibility": 120,
+					"Buff": {
+						"Duration": 300,
+						"CustomAttributes": {
+							"LuckLevel": 1,
+							"MaxStamina": 30,
+							"Defense": 3
+						}
+					},
+
+					"Texture": "LASV/Objects",
+					"SpriteIndex": 18
+				},
+			}
+		},
+
+		//Cooking Recipes
+		{
+			"Action": "EditData",
+			"Target": "Data/CookingRecipes",
+			"Entries": {
+				"Pale Berry Pie": "246 1 LASV_Pale_Berry 3/25 5/LASV_Pale_Berry_Pie 1/f Bianka 2000",
+				"Sour Hashbrown": "247 1 LASV_Sour_Potato 2/25 5/LASV_Sour_Hashbrown 1/f Bianka 2000",
+				"Umuwi Mash": "LASV_Eggroot 3 LASV_Thorn_Pepper 5/25 5/LASV_Umuwi_Mash 1/f Raphael 2000",
+				"Umuwi Salad": "LASV_Ghost_Cabbage 3 LASV_Umuwi_Lanzones 2 LASV_Umuwi_Rambutan 2/25 5/LASV_Umuwi_Salad 1/f Raphael 2000",
+			}
+		},
+
+		//Seeds and Saplings
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+
+				"LASV_Eggroot_Seeds": {
+			    "Name": "Eggroot Seeds",
+			    "DisplayName": "Eggroot Seeds",
+			    "Description": "Plant in spring. Takes 14 days to produce Eggroot.",
+			    "Type": "Basic",
+			    "Category": -74,
+			    "Price": 180,
+			    "Texture": "LASV/Objects",
+			    "SpriteIndex": 30,
+			    "Edibility": -300,
+			    "IsDrink": false,
+			  },
+			  	"LASV_Ghost_Cabbage_Seeds": {
+			    "Name": "Ghost Cabbage Seeds",
+			    "DisplayName": "Ghost Cabbage Seeds",
+			    "Description": "Plant in fall. Takes 8 days to produce Ghost Cabbage.",
+			    "Type": "Basic",
+			    "Category": -74,
+			    "Price": 100,
+			    "Texture": "LASV/Objects",
+			    "SpriteIndex": 31,
+			    "Edibility": -300,
+			    "IsDrink": false,
+			  },
+			  	"LASV_Pale_Berry_Seeds": {
+			    "Name": "Pale Berry Seeds",
+			    "DisplayName": "Pale Berry Seeds",
+			    "Description": "Plant in spring. Takes 6 days to produce Pale Berries and regrows after harvest.",
+			    "Type": "Basic",
+			    "Category": -74,
+			    "Price": 110,
+			    "Texture": "LASV/Objects",
+			    "SpriteIndex": 32,
+			    "Edibility": -300,
+			    "IsDrink": false,
+			  },
+			  	"LASV_Sour_Potato_Seeds": {
+			    "Name": "Sour Potato Seeds",
+			    "DisplayName": "Sour Potato Seeds",
+			    "Description": "Plant in summer. Takes 8 days to produce Sour Potato.",
+			    "Type": "Basic",
+			    "Category": -74,
+			    "Price": 70,
+			    "Texture": "LASV/Objects",
+			    "SpriteIndex": 33,
+			    "Edibility": -300,
+			    "IsDrink": false,
+			  },
+			  	"LASV_Thorn_Pepper_Seeds": {
+			    "Name": "Thorn Pepper Seeds",
+			    "DisplayName": "Thorn Pepper Seeds",
+			    "Description": "Plant in summer. Takes 10 days to produce Thorn Peppers and regrows after harvest.",
+			    "Type": "Basic",
+			    "Category": -74,
+			    "Price": 100,
+			    "Texture": "LASV/Objects",
+			    "SpriteIndex": 34,
+			    "Edibility": -300,
+			    "IsDrink": false,
+			  },
+			  	"LASV_Umuwi_Lanzones_Sapling": {
+			    "Name": "Umuwi Lanzones Sapling",
+			    "DisplayName": "Umuwi Lanzones Sapling",
+			    "Description": "Takes 28 days to produce a mature Lanzones tree. Ready to harvest in the summer. Only grows if the 8 surrounding tiles are empty.",
+			    "Type": "Basic",
+			    "Category": -74,
+			    "Price": 5000,
+			    "Texture": "LASV/Objects",
+			    "SpriteIndex": 35,
+			    "Edibility": -300,
+			    "IsDrink": false,
+			  },
+			  	"LASV_Umuwi_Rambutan_Sapling": {
+			    "Name": "Umuwi Rambutan Sapling",
+			    "DisplayName": "Umuwi Rambutan Sapling",
+			    "Description": "Takes 28 days to produce a mature Rambutan tree. Ready to harvest in the spring. Only grows if the 8 surrounding tiles are empty.",
+			    "Type": "Basic",
+			    "Category": -74,
+			    "Price": 7000,
+			    "Texture": "LASV/Objects",
+			    "SpriteIndex": 36,
+			    "Edibility": -300,
+			    "IsDrink": false,
+			  }
+			},
+		},
+
+	]
+}
