@@ -4,7 +4,7 @@
 		{
 			"Action": "EditData",
 			"Target": "Data/Locations",
-			"Entries": {
+			"Fields": {
 				"Custom_LASV_Umuwi": {
 					"Fish": [
 						{
@@ -79,11 +79,12 @@
 		},
 		
 		//Fishpond
-		{ //Purple Spotted Trout
+		{
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
 			"Entries": {
-				"fish_purple_spotted_trout": {
+
+				"LASV_Purple_Spotted_Trout": {
 					"RequiredTags": [
 						"fish_purple_spotted_trout"
 					],
@@ -130,13 +131,8 @@
 						],
 					},
 				},
-			},
-		},
-		{ //Relicantlette
-			"Action": "EditData",
-			"Target": "Data/FishPondData",
-			"Entries": {
-				"fish_relicantlette": {
+
+				"LASV_Relicantlette": {
 					"RequiredTags": [
 						"fish_relicantlette"
 					],
@@ -183,13 +179,8 @@
 						],
 					},
 				},
-			},
-		},
-		{ //Dewdrop Fish
-			"Action": "EditData",
-			"Target": "Data/FishPondData",
-			"Entries": {
-				"fish_dewdrop_fish": {
+
+				"LASV_Dewdrop_Fish": {
 					"RequiredTags": [
 						"fish_dewdrop_fish"
 					],
@@ -236,13 +227,8 @@
 						],
 					},
 				},
-			},
-		},
-		{ //Serafin
-			"Action": "EditData",
-			"Target": "Data/FishPondData",
-			"Entries": {
-				"fish_serafin": {
+
+				"LASV_Serafin": {
 					"RequiredTags": [
 						"fish_serafin"
 					],
@@ -289,13 +275,8 @@
 						],
 					},
 				},
-			},
-		},
-		{ //Umuwi Carp
-			"Action": "EditData",
-			"Target": "Data/FishPondData",
-			"Entries": {
-				"fish_umuwi_carp": {
+
+				"LASV_Umuwi_Carp": {
 					"RequiredTags": [
 						"fish_umuwi_carp"
 					],
@@ -342,9 +323,10 @@
 						],
 					}
 				}
-			}
+			},
 		},
-		{
+
+		/*{ //Notsure if needed?
 			"Action": "EditData",
 			"Target": "Data/FishPondData",
 			"MoveEntries": [
@@ -369,7 +351,7 @@
 					"AfterID": "fish_serafin"
 				}
 			]
-		},
+		},*/
 		{
 			"LogName": "Aquarium Data",
 			"Action": "EditData",

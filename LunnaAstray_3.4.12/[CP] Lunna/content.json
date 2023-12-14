@@ -331,6 +331,11 @@
 			"Action": "Include",
 			"FromFile": "assets/Weapons/WeaponsData.json",
 		},
+		{
+			"LogName": "Include Shops",
+			"Action": "Include",
+			"FromFile": "assets/Data/Shops.json",
+		},
 
 	]
 }

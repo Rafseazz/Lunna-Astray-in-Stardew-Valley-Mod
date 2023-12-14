@@ -16,8 +16,8 @@
 
 				"LASV_Dewdrop_Fish": {
 					"Name": "Dewdrop Fish",
-					"Displayname": "Dewdrop Fish",
-					"Description": "An ancient fish named for its shape.",
+					"Displayname": "{{i18n:LASV_Dewdrop_Fish}}",
+					"Description": "{{i18n:LASV_Dewdrop_Fish_Description}}",
 					"Type": "Fish",
 					"Category": -4,
 					"Price": 55,
@@ -30,8 +30,8 @@
 
 				"LASV_Purple_Spotted_Trout": {
 					"Name": "Purple Spotted Trout",
-					"Displayname": "Purple Spotted Trout",
-					"Description": "A freshwater fish not found in the human world.",
+					"Displayname": "{{i18n:LASV_Purple_Spotted_Trout}}",
+					"Description": "{{i18n:LASV_Purple_Spotted_Trout_Description}}",
 					"Type": "Fish",
 					"Category": -4,
 					"Price": 155,
@@ -44,8 +44,8 @@
 
 				"LASV_Relicantlette": {
 					"Name": "Relicantlette",
-					"Displayname": "Relicantlette",
-					"Description": "A common fish found in ancient lakes.",
+					"Displayname": "{{i18n:LASV_Relicantlette}}",
+					"Description": "{{i18n:LASV_Relicantlette_Description}}",
 					"Type": "Fish",
 					"Category": -4,
 					"Price": 50,
@@ -58,8 +58,8 @@
 
 				"LASV_Serafin": {
 					"Name": "Serafin",
-					"Displayname": "Serafin",
-					"Description": "A pretty fish with wing-like fins.",
+					"Displayname": "{{i18n:LASV_Serafin}}",
+					"Description": "{{i18n:LASV_Serafin_Description}}",
 					"Type": "Fish",
 					"Category": -4,
 					"Price": 140,
@@ -72,8 +72,8 @@
 
 				"LASV_Umuwi_Carp": {
 					"Name": "Umuwi Carp",
-					"Displayname": "Umuwi Carp",
-					"Description": "A rare fish found in Umuwi. It seems to radiate magic.",
+					"Displayname": "{{i18n:LASV_Umuwi_Carp}}",
+					"Description": "{{i18n:LASV_Umuwi_Carp_Description}}",
 					"Type": "Fish",
 					"Category": -4,
 					"Price": 800,
@@ -94,8 +94,8 @@
 
 				"LASV_Umuwi_Aster": {
 					"Name": "Umuwi Aster",
-					"Displayname": "Umuwi Aster",
-					"Description": "A local fall flower that blooms in Umuwi. Comes in many colors.",
+					"Displayname": "{{i18n:LASV_Umuwi_Aster}}",
+					"Description": "{{i18n:LASV_Umuwi_Aster_Description}}",
 					"Type": "Flower",
 					"Category": -80,
 					"Price": 50,
@@ -113,8 +113,8 @@
 
 				"LASV_Umuwi_Badak": {
 					"Name": "Umuwi Badak",
-					"Displayname": "Umuwi Badak",
-					"Description": "An ovate orange yam. Has a sweet flavor with a touch of chestnut.",
+					"Displayname": "{{i18n:LASV_Umuwi_Badak}}",
+					"Description": "{{i18n:LASV_Umuwi_Badak_Description}}",
 					"Type": "Vegetable",
 					"Category": -75,
 					"Price": 60,
@@ -133,8 +133,8 @@
 
 				"LASV_Umuwi_Calamansi": {
 					"Name": "Umuwi Calamansi",
-					"Displayname": "Umuwi Calamansi",
-					"Description": "A small round citrus fruit that is found in the fields of Umuwi all year round.",
+					"Displayname": "{{i18n:LASV_Umuwi_Calamansi}}",
+					"Description": "{{i18n:LASV_Umuwi_Calamansi_Description}}",
 					"Type": "Fruit",
 					"Category": -79,
 					"Price": 50,
@@ -153,8 +153,8 @@
 
 				"LASV_Umuwi_Makahiya": {
 					"Name": "Umuwi Makahiya",
-					"Displayname": "Umuwi Makahiya",
-					"Description": "A thorny flower with leaves that shut close whenever it is touched.",
+					"Displayname": "{{i18n:LASV_Umuwi_Makahiya}}",
+					"Description": "{{i18n:LASV_Umuwi_Makahiya_Description}}",
 					"Type": "Flower",
 					"Category": -80,
 					"Price": 90,
@@ -172,8 +172,8 @@
 
 				"LASV_Umuwi_Olive": {
 					"Name": "Umuwi Olive",
-					"Displayname": "Umuwi Olive",
-					"Description": "A variant of olive that has a spicy aftertaste!",
+					"Displayname": "{{i18n:LASV_Umuwi_Olive}}",
+					"Description": "{{i18n:LASV_Umuwi_Olive_Description}}",
 					"Type": "Fruit",
 					"Category": -79,
 					"Price": 50,
@@ -192,8 +192,8 @@
 
 				"LASV_Umuwi_Poinsettia": {
 					"Name": "Umuwi Poinsettia",
-					"Displayname": "Umuwi Poinsettia",
-					"Description": "A flower that blooms in the cold dirt of Umuwi. Popular among female shadowfolk and werewolves.",
+					"Displayname": "{{i18n:LASV_Umuwi_Poinsettia}}",
+					"Description": "{{i18n:LASV_Umuwi_Poinsettia_Description}}",
 					"Type": "Flower",
 					"Category": -80,
 					"Price": 60,
@@ -212,8 +212,8 @@
 
 				"LASV_Umuwi_Sampaguita": {
 					"Name": "Umuwi Sampaguita",
-					"Displayname": "Umuwi Sampaguita",
-					"Description": "A local summer flower that blooms in Umuwi. Has a faint fragrance to it.",
+					"Displayname": "{{i18n:LASV_Umuwi_Sampaguita}}",
+					"Description": "{{i18n:LASV_Umuwi_Sampaguita_Description}}",
 					"Type": "Flower",
 					"Category": -80,
 					"Price": 50,
@@ -239,8 +239,8 @@
 
 				"LASV_Eggroot": {
 					"Name": "Eggroot",
-					"Displayname": "Eggroot",
-					"Description": "An egg-shaped root crop that has a rich and savory flavor.",
+					"Displayname": "{{i18n:LASV_Eggroot}}",
+					"Description": "{{i18n:LASV_Eggroot.Description}}",
 					"Type": "Vegetable",
 					"Category": -75,
 					"Price": 255,
@@ -252,8 +252,8 @@
 
 				"LASV_Ghost_Cabbage": {
 					"Name": "Ghost Cabbage",
-					"Displayname": "Ghost Cabbage",
-					"Description": "You can almost see through its leaves.",
+					"Displayname": "{{i18n:LASV_Ghost_Cabbage}}",
+					"Description": "{{i18n:LASV_Ghost_Cabbage.Description}}",
 					"Type": "Vegetable",
 					"Category": -75,
 					"Price": 200,
@@ -265,8 +265,8 @@
 
 				"LASV_Pale_Berry": {
 					"Name": "Pale Berry",
-					"Displayname": "Pale Berry",
-					"Description": "A pale purple-colored berry that has a soothing sweet aftertaste.",
+					"Displayname": "{{i18n:LASV_Pale_Berry}}",
+					"Description": "{{i18n:LASV_Pale_Berry.Description}}",
 					"Type": "Fruit",
 					"Category": -79,
 					"Price": 100,
@@ -278,8 +278,8 @@
 
 				"LASV_Sour_Potato": {
 					"Name": "Sour Potato",
-					"Displayname": "Sour Potato",
-					"Description": "A variation of potato grown in Umuwi. It tastes sour.",
+					"Displayname": "{{i18n:LASV_Sour_Potato}}",
+					"Description": "{{i18n:LASV_Sour_Potato.Description}}",
 					"Type": "Vegetable",
 					"Category": -75,
 					"Price": 70,
@@ -291,8 +291,8 @@
 
 				"LASV_Thorn_Pepper": {
 					"Name": "Thorn Pepper",
-					"Displayname": "Thorn Pepper",
-					"Description": "A thorny and bitter species of pepper.",
+					"Displayname": "{{i18n:LASV_Thorn_Pepper}}",
+					"Description": "{{i18n:LASV_Thorn_Pepper.Description}}",
 					"Type": "Fruit",
 					"Category": -79,
 					"Price": 50,
@@ -312,8 +312,8 @@
 
 				"LASV_Umuwi_Lanzones": {
 					"Name": "Umuwi Lanzones",
-					"Displayname": "Umuwi Lanzones",
-					"Description": "A small fruit high in antioxidants, vitamins, and protein.",
+					"Displayname": "{{i18n:LASV_Umuwi_Lanzones}}",
+					"Description": "{{i18n:LASV_Umuwi_Lanzones.Description}}",
 					"Type": "Fruit",
 					"Category": -79,
 					"Price": 155,
@@ -325,8 +325,8 @@
 
 				"LASV_Umuwi_Rambutan": {
 					"Name": "Umuwi Rambutan",
-					"Displayname": "Umuwi Rambutan",
-					"Description": "A red, plum-sized fruit with soft spines and a slightly acidic taste.",
+					"Displayname": "{{i18n:LASV_Umuwi_Rambutan}}",
+					"Description": "{{i18n:LASV_Umuwi_Rambutan.Description}}",
 					"Type": "Fruit",
 					"Category": -79,
 					"Price": 190,
@@ -346,8 +346,8 @@
 
 				"LASV_EmbraceFruit": {
 					"Name": "EmbraceFruit",
-					"Displayname": "EmbraceFruit",
-					"Description": "A fruit as warm as Bianka's presence. It seems to reduce pain for a few seconds.",
+					"Displayname": "{{i18n:LASV_EmbraceFruit}}",
+					"Description": "{{i18n:LASV_EmbraceFruit.Description}}",
 					"Type": "Crafting",
 					"Category": -8,
 					"Price": 10,
@@ -365,8 +365,8 @@
 
 				"LASV_HastePill": {
 					"Name": "HastePill",
-					"Displayname": "HastePill",
-					"Description": "A magic pill of haste formulated by Raphael and you. Gives extreme speed for a few seconds.",
+					"Displayname": "{{i18n:LASV_HastePill}}",
+					"Description": "{{i18n:LASV_HastePill.Description}}",
 					"Type": "Crafting",
 					"Category": -8,
 					"Price": 10,
@@ -384,8 +384,8 @@
 
 				"LASV_LuckyMint": {
 					"Name": "LuckyMint",
-					"Displayname": "LuckyMint",
-					"Description": "A mint candy imbued with Lunna's ancient magic. It increases luck dramatically for a short period of time.",
+					"Displayname": "{{i18n:LASV_LuckyMint}}",
+					"Description": "{{i18n:LASV_LuckyMint.Description}}",
 					"Type": "Crafting",
 					"Category": -8,
 					"Price": 10,
@@ -422,8 +422,8 @@
 
 				"LASV_Pale_Berry_Pie": {
 					"Name": "Pale Berry Pie",
-					"Displayname": "Pale Berry Pie",
-					"Description": "A pie filled with Umuwi's Pale Berries. It has a very sweet aftertaste!",
+					"Displayname": "{{i18n:LASV_Pale_Berry_Pie}}",
+					"Description": "{{i18n:LASV_Pale_Berry_Pie.Description}}",
 					"Type": "Cooking",
 					"Category": -7,
 					"Price": 300,
@@ -442,8 +442,8 @@
 
 				"LASV_Sour_Hashbrown": {
 					"Name": "Sour Hashbrown",
-					"Displayname": "Sour Hashbrown",
-					"Description": "A unique-tasting potato made into a hashbrown!",
+					"Displayname": "{{i18n:LASV_Sour_Hashbrown}}",
+					"Description": "{{i18n:LASV_Sour_Hashbrown.Description}}",
 					"Type": "Cooking",
 					"Category": -7,
 					"Price": 250,
@@ -463,8 +463,8 @@
 
 				"LASV_Umuwi_Mash": {
 					"Name": "Umuwi Mash",
-					"Displayname": "Umuwi Mash",
-					"Description": "A spicy, starchy mash good for a cold winter day!",
+					"Displayname": "{{i18n:LASV_Umuwi_Mash}}",
+					"Description": "{{i18n:LASV_Umuwi_Mash.Description}}",
 					"Type": "Cooking",
 					"Category": -7,
 					"Price": 300,
@@ -484,8 +484,8 @@
 
 				"LASV_Umuwi_Salad": {
 					"Name": "Umuwi Salad",
-					"Displayname": "Umuwi Salad",
-					"Description": "A salad made with Umuwi produce. It has a sweet savory taste!",
+					"Displayname": "{{i18n:LASV_Umuwi_Salad}}",
+					"Description": "{{i18n:LASV_Umuwi_Salad.Description}}",
 					"Type": "Cooking",
 					"Category": -7,
 					"Price": 400,
@@ -525,8 +525,8 @@
 
 				"LASV_Eggroot_Seeds": {
 			    "Name": "Eggroot Seeds",
-			    "DisplayName": "Eggroot Seeds",
-			    "Description": "Plant in spring. Takes 14 days to produce Eggroot.",
+			    "DisplayName": "{{i18n:LASV_Eggroot_Seeds}}",
+			    "Description": "{{i18n:LASV_Eggroot_Seeds.Description}}",
 			    "Type": "Basic",
 			    "Category": -74,
 			    "Price": 180,
@@ -537,8 +537,8 @@
 			  },
 			  	"LASV_Ghost_Cabbage_Seeds": {
 			    "Name": "Ghost Cabbage Seeds",
-			    "DisplayName": "Ghost Cabbage Seeds",
-			    "Description": "Plant in fall. Takes 8 days to produce Ghost Cabbage.",
+			    "DisplayName": "{{i18n:LASV_Ghost_Cabbage_Seeds}}",
+			    "Description": "{{i18n:LASV_Ghost_Cabbage_Seeds.Description}}",
 			    "Type": "Basic",
 			    "Category": -74,
 			    "Price": 100,
@@ -549,8 +549,8 @@
 			  },
 			  	"LASV_Pale_Berry_Seeds": {
 			    "Name": "Pale Berry Seeds",
-			    "DisplayName": "Pale Berry Seeds",
-			    "Description": "Plant in spring. Takes 6 days to produce Pale Berries and regrows after harvest.",
+			    "DisplayName": "{{i18n:LASV_Pale_Berry_Seeds}}",
+			    "Description": "{{i18n:LASV_Pale_Berry_Seeds.Description}}",
 			    "Type": "Basic",
 			    "Category": -74,
 			    "Price": 110,
@@ -561,8 +561,8 @@
 			  },
 			  	"LASV_Sour_Potato_Seeds": {
 			    "Name": "Sour Potato Seeds",
-			    "DisplayName": "Sour Potato Seeds",
-			    "Description": "Plant in summer. Takes 8 days to produce Sour Potato.",
+			    "DisplayName": "{{i18n:LASV_Sour_Potato_Seeds}}",
+			    "Description": "{{i18n:LASV_Sour_Potato_Seeds.Description}}",
 			    "Type": "Basic",
 			    "Category": -74,
 			    "Price": 70,
@@ -573,8 +573,8 @@
 			  },
 			  	"LASV_Thorn_Pepper_Seeds": {
 			    "Name": "Thorn Pepper Seeds",
-			    "DisplayName": "Thorn Pepper Seeds",
-			    "Description": "Plant in summer. Takes 10 days to produce Thorn Peppers and regrows after harvest.",
+			    "DisplayName": "{{i18n:LASV_Thorn_Pepper_Seeds}}",
+			    "Description": "{{i18n:LASV_Thorn_Pepper_Seeds.Description}}",
 			    "Type": "Basic",
 			    "Category": -74,
 			    "Price": 100,
@@ -585,8 +585,8 @@
 			  },
 			  	"LASV_Umuwi_Lanzones_Sapling": {
 			    "Name": "Umuwi Lanzones Sapling",
-			    "DisplayName": "Umuwi Lanzones Sapling",
-			    "Description": "Takes 28 days to produce a mature Lanzones tree. Ready to harvest in the summer. Only grows if the 8 surrounding tiles are empty.",
+			    "DisplayName": "{{i18n:LASV_Umuwi_Lanzones_Sapling}}",
+			    "Description": "{{i18n:LASV_Umuwi_Lanzones_Sapling.Description}}",
 			    "Type": "Basic",
 			    "Category": -74,
 			    "Price": 5000,
@@ -597,8 +597,8 @@
 			  },
 			  	"LASV_Umuwi_Rambutan_Sapling": {
 			    "Name": "Umuwi Rambutan Sapling",
-			    "DisplayName": "Umuwi Rambutan Sapling",
-			    "Description": "Takes 28 days to produce a mature Rambutan tree. Ready to harvest in the spring. Only grows if the 8 surrounding tiles are empty.",
+			    "DisplayName": "{{i18n:LASV_Umuwi_Rambutan_Sapling}}",
+			    "Description": "{{i18n:LASV_Umuwi_Rambutan_Sapling.Description}}",
 			    "Type": "Basic",
 			    "Category": -74,
 			    "Price": 7000,

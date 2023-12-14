@@ -16,8 +16,8 @@
 
 				"LASV_Lunna_s_Whip": {
 				    "Name": "Lunna's Whip",
-				    "DisplayName": "Lunna's Whip",
-				    "Description": "It does not seem to be artificial...",
+				    "DisplayName": "{{i18n:LASV_Lunna_s_Whip}}",
+				    "Description": "{{i18n:LASV_Lunna_s_Whip_Description}}",
 				    "MinDamage": 90,
 				    "MaxDamage": 150,
 				    "Knockback": 0.3,
@@ -39,8 +39,8 @@
 				
 				"LASV_Void_Blessed_Hammer": {
 				    "Name": "Void Blessed Hammer",
-				    "DisplayName": "Void Blessed Hammer",
-				    "Description": "It is unusually heavy and very hard to use",
+				    "DisplayName": "{{i18n:LASV_Void_Blessed_Hammer}}",
+				    "Description": "{{i18n:LASV_Void_Blessed_Hammer_Description}}",
 				    "MinDamage": 200,
 				    "MaxDamage": 300,
 				    "Knockback": 5.0,
@@ -62,8 +62,8 @@
 				
 				"LASV_Void_Blessed_Sword": {
 				    "Name": "Void Blessed Sword",
-				    "DisplayName": "Void Blessed Sword",
-				    "Description": "It is extremely light and very sharp.",
+				    "DisplayName": "{{i18n:LASV_Void_Blessed_Sword}}",
+				    "Description": "{{i18n:LASV_Void_Blessed_Sword_Description}}",
 				    "MinDamage": 80,
 				    "MaxDamage": 120,
 				    "Knockback": 0.3,

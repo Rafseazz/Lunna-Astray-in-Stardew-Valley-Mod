@@ -1866,4 +1866,102 @@
   "Romance.MovieInvite.Spouse.Bianka": "Awww! Baby! You're super adorable for planning a movie date! I'll see you later!$h",
   "Romance.MovieInvite.Spouse.Raphael": "Oh, wow! A movie date! Let me get ready then let's meet up later.$h",
 
+  //Shop quotes
+  "OddiShop": "Browse Umuwi products!",
+  "RaphShop": "Anything you need?",
+
+  //Object Names
+  "LASV_Dewdrop_Fish": "Dewdrop Fish",
+  "LASV_Purple_Spotted_Trout": "Purple Spotted Trout",
+  "LASV_Relicantlette": "Relicantlette",
+  "LASV_Serafin": "Serafin",
+  "LASV_Umuwi_Carp": "Umuwi Carp",
+
+  "LASV_Umuwi_Aster": "Umuwi Aster",
+  "LASV_Umuwi_Badak": "Umuwi Badak",
+  "LASV_Umuwi_Calamansi": "Umuwi Calamansi",
+  "LASV_Umuwi_Makahiya": "Umuwi Makahiya",
+  "LASV_Umuwi_Olive": "Umuwi Olive",
+  "LASV_Umuwi_Poinsettia": "Umuwi Poinsettia",
+  "LASV_Umuwi_Sampaguita": "Umuwi Sampaguita",
+
+  "LASV_Eggroot": "Eggroot",
+  "LASV_Ghost_Cabbage": "Ghost Cabbage",
+  "LASV_Pale_Berry": "Pale Berry",
+  "LASV_Sour_Potato": "Sour Potato",
+  "LASV_Thorn_Pepper": "Thorn Pepper",
+
+  "LASV_Umuwi_Lanzones": "Umuwi Lanzones",
+  "LASV_Umuwi_Rambutan": "Umuwi Rambutan",
+
+  "LASV_EmbraceFruit": "EmbraceFruit",
+  "LASV_HastePill": "HastePill",
+  "LASV_LuckyMint": "LuckyMint",
+
+  "LASV_Pale_Berry_Pie": "Pale Berry Pie",
+  "LASV_Sour_Hashbrown": "Sour Hashbrown",
+  "LASV_Umuwi_Mash": "Umuwi Mash",
+  "LASV_Umuwi_Salad": "Umuwi Salad",
+
+  "LASV_Eggroot_Seeds": "Eggroot Seeds",
+  "LASV_Ghost_Cabbage_Seeds": "Ghost Cabbage Seeds",
+  "LASV_Pale_Berry_Seeds": "Pale Berry Seeds",
+  "LASV_Sour_Potato_Seeds": "Sour Potato Seeds",
+  "LASV_Thorn_Pepper_Seeds": "Thorn Pepper Seeds",
+
+  "LASV_Umuwi_Lanzones_Sapling": "Umuwi Lanzones Sapling",
+  "LASV_Umuwi_Rambutan_Sapling": "Umuwi Rambutan Sapling",
+
+  //Weapon Names
+  "LASV_Lunna_s_Whip": "Lunna's Whip",
+  "LASV_Void_Blessed_Hammer": "Void Blessed Hammer",
+  "LASV_Void_Blessed_Sword": "Void Blessed Sword",
+
+  //Object Descriptions
+  "LASV_Dewdrop_Fish_Description": "An ancient fish named for its shape.",
+  "LASV_Purple_Spotted_Trout_Description": "A freshwater fish not found in the human world.",
+  "LASV_Relicantlette_Description": "A common fish found in ancient lakes.",
+  "LASV_Serafin_Description": "A pretty fish with wing-like fins.",
+  "LASV_Umuwi_Carp_Description": "A rare fish found in Umuwi. It seems to radiate magic.",
+
+  "LASV_Umuwi_Aster_Description": "A local fall flower that blooms in Umuwi. Comes in many colors.",
+  "LASV_Umuwi_Badak_Description": "An ovate orange yam. Has a sweet flavor with a touch of chestnut.",
+  "LASV_Umuwi_Calamansi_Description": "A small round citrus fruit that is found in the fields of Umuwi all year round.",
+  "LASV_Umuwi_Makahiya_Description": "A thorny flower with leaves that shuts close whenever it is touched.",
+  "LASV_Umuwi_Olive_Description": "A variant of olive that has a spicy aftertaste!",
+  "LASV_Umuwi_Poinsettia_Description": "A flower that blooms in the cold dirt of Umuwi. Popular among female shadowfolk and werewolves.",
+  "LASV_Umuwi_Sampaguita_Description": "A local summer flower that blooms in Umuwi. Has a faint fragrance to it.",
+
+  "LASV_Eggroot_Description": "An egg-shaped root crop that has a rich and savory flavor.",
+  "LASV_Ghost_Cabbage_Description": "You can almost see through its leaves.",
+  "LASV_Pale_Berry_Description": "A pale purple-colored berry that has a soothing sweet aftertaste.",
+  "LASV_Sour_Potato_Description": "A variation of potato grown in Umuwi. It tastes sour.",
+  "LASV_Thorn_Pepper_Description": "A thorny and bitter species of pepper.",
+
+  "LASV_Umuwi_Lanzones_Description": "A small fruit high in antioxidants, vitamins, and protein.",
+  "LASV_Umuwi_Rambutan_Description": "A red, plum-sized fruit with soft spines and a slightly acidic taste.",
+
+  "LASV_EmbraceFruit_Description": "A fruit as warm as Bianka's presence. It seems to reduce pain for a few seconds.",
+  "LASV_HastePill_Description": "A magic pill of haste formulated by Raphael and you. Gives extreme speed for a few seconds.",
+  "LASV_LuckyMint_Description": "A mint candy imbued with Lunna's ancient magic. It increases luck dramatically for a short period of time.",
+
+  "LASV_Pale_Berry_Pie_Description": "A pie filled with Umuwi's Pale Berries. It has a very sweet aftertaste!",
+  "LASV_Sour_Hashbrown_Description": "A unique-tasting potato made into a hashbrown!",
+  "LASV_Umuwi_Mash_Description": "A spicy and starchy mash good for a cold winter day!",
+  "LASV_Umuwi_Salad_Description": "A salad made with Umuwi produce. It has a sweet savory taste!",
+
+  "LASV_Eggroot_Seeds_Description": "Plant in spring. Takes 14 days to produce Eggroot.",
+  "LASV_Ghost_Cabbage_Seeds_Description": "Plant in fall. Takes 8 days to produce Ghost Cabbage.",
+  "LASV_Pale_Berry_Seeds_Description": "Plant in spring. Takes 6 days to produce Pale Berries and regrows after harvest.",
+  "LASV_Sour_Potato_Seeds_Description": "Plant in summer. Takes 8 days to produce Sour Potato.",
+  "LASV_Thorn_Pepper_Seeds_Description": "Plant in summer. Takes 10 days to produce Thorn Peppers and regrows after harvest.",
+
+  "LASV_Umuwi_Lanzones_Sapling_Description": "Takes 28 days to produce a mature Lanzones tree. Ready to harvest in the summer. Only grows if the 8 surrounding tiles are empty.",
+  "LASV_Umuwi_Rambutan_Sapling_Description": "Takes 28 days to produce a mature Rambutan tree. Ready to harvest in the spring. Only grows if the 8 surrounding tiles are empty.",
+
+  //Weapon Descriptions
+  "LASV_Lunna_s_Whip_Description": "It does not seem to be artificial...",
+  "LASV_Void_Blessed_Hammer_Description": "It is quite heavy and hard to use",
+  "LASV_Void_Blessed_Sword_Description": "It is extremely light and very sharp.",
+
 }
