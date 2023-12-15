@@ -240,7 +240,7 @@
 				"LASV_Eggroot": {
 					"Name": "Eggroot",
 					"Displayname": "{{i18n:LASV_Eggroot}}",
-					"Description": "{{i18n:LASV_Eggroot.Description}}",
+					"Description": "{{i18n:LASV_Eggroot_Description}}",
 					"Type": "Vegetable",
 					"Category": -75,
 					"Price": 255,
@@ -253,7 +253,7 @@
 				"LASV_Ghost_Cabbage": {
 					"Name": "Ghost Cabbage",
 					"Displayname": "{{i18n:LASV_Ghost_Cabbage}}",
-					"Description": "{{i18n:LASV_Ghost_Cabbage.Description}}",
+					"Description": "{{i18n:LASV_Ghost_Cabbage_Description}}",
 					"Type": "Vegetable",
 					"Category": -75,
 					"Price": 200,
@@ -266,7 +266,7 @@
 				"LASV_Pale_Berry": {
 					"Name": "Pale Berry",
 					"Displayname": "{{i18n:LASV_Pale_Berry}}",
-					"Description": "{{i18n:LASV_Pale_Berry.Description}}",
+					"Description": "{{i18n:LASV_Pale_Berry_Description}}",
 					"Type": "Fruit",
 					"Category": -79,
 					"Price": 100,
@@ -279,7 +279,7 @@
 				"LASV_Sour_Potato": {
 					"Name": "Sour Potato",
 					"Displayname": "{{i18n:LASV_Sour_Potato}}",
-					"Description": "{{i18n:LASV_Sour_Potato.Description}}",
+					"Description": "{{i18n:LASV_Sour_Potato_Description}}",
 					"Type": "Vegetable",
 					"Category": -75,
 					"Price": 70,
@@ -292,7 +292,7 @@
 				"LASV_Thorn_Pepper": {
 					"Name": "Thorn Pepper",
 					"Displayname": "{{i18n:LASV_Thorn_Pepper}}",
-					"Description": "{{i18n:LASV_Thorn_Pepper.Description}}",
+					"Description": "{{i18n:LASV_Thorn_Pepper_Description}}",
 					"Type": "Fruit",
 					"Category": -79,
 					"Price": 50,
@@ -313,7 +313,7 @@
 				"LASV_Umuwi_Lanzones": {
 					"Name": "Umuwi Lanzones",
 					"Displayname": "{{i18n:LASV_Umuwi_Lanzones}}",
-					"Description": "{{i18n:LASV_Umuwi_Lanzones.Description}}",
+					"Description": "{{i18n:LASV_Umuwi_Lanzones_Description}}",
 					"Type": "Fruit",
 					"Category": -79,
 					"Price": 155,
@@ -326,7 +326,7 @@
 				"LASV_Umuwi_Rambutan": {
 					"Name": "Umuwi Rambutan",
 					"Displayname": "{{i18n:LASV_Umuwi_Rambutan}}",
-					"Description": "{{i18n:LASV_Umuwi_Rambutan.Description}}",
+					"Description": "{{i18n:LASV_Umuwi_Rambutan_Description}}",
 					"Type": "Fruit",
 					"Category": -79,
 					"Price": 190,
@@ -347,7 +347,7 @@
 				"LASV_EmbraceFruit": {
 					"Name": "EmbraceFruit",
 					"Displayname": "{{i18n:LASV_EmbraceFruit}}",
-					"Description": "{{i18n:LASV_EmbraceFruit.Description}}",
+					"Description": "{{i18n:LASV_EmbraceFruit_Description}}",
 					"Type": "Crafting",
 					"Category": -8,
 					"Price": 10,
@@ -366,7 +366,7 @@
 				"LASV_HastePill": {
 					"Name": "HastePill",
 					"Displayname": "{{i18n:LASV_HastePill}}",
-					"Description": "{{i18n:LASV_HastePill.Description}}",
+					"Description": "{{i18n:LASV_HastePill_Description}}",
 					"Type": "Crafting",
 					"Category": -8,
 					"Price": 10,
@@ -385,7 +385,7 @@
 				"LASV_LuckyMint": {
 					"Name": "LuckyMint",
 					"Displayname": "{{i18n:LASV_LuckyMint}}",
-					"Description": "{{i18n:LASV_LuckyMint.Description}}",
+					"Description": "{{i18n:LASV_LuckyMint_Description}}",
 					"Type": "Crafting",
 					"Category": -8,
 					"Price": 10,
@@ -423,7 +423,7 @@
 				"LASV_Pale_Berry_Pie": {
 					"Name": "Pale Berry Pie",
 					"Displayname": "{{i18n:LASV_Pale_Berry_Pie}}",
-					"Description": "{{i18n:LASV_Pale_Berry_Pie.Description}}",
+					"Description": "{{i18n:LASV_Pale_Berry_Pie_Description}}",
 					"Type": "Cooking",
 					"Category": -7,
 					"Price": 300,
@@ -443,7 +443,7 @@
 				"LASV_Sour_Hashbrown": {
 					"Name": "Sour Hashbrown",
 					"Displayname": "{{i18n:LASV_Sour_Hashbrown}}",
-					"Description": "{{i18n:LASV_Sour_Hashbrown.Description}}",
+					"Description": "{{i18n:LASV_Sour_Hashbrown_Description}}",
 					"Type": "Cooking",
 					"Category": -7,
 					"Price": 250,
@@ -464,7 +464,7 @@
 				"LASV_Umuwi_Mash": {
 					"Name": "Umuwi Mash",
 					"Displayname": "{{i18n:LASV_Umuwi_Mash}}",
-					"Description": "{{i18n:LASV_Umuwi_Mash.Description}}",
+					"Description": "{{i18n:LASV_Umuwi_Mash_Description}}",
 					"Type": "Cooking",
 					"Category": -7,
 					"Price": 300,
@@ -485,7 +485,7 @@
 				"LASV_Umuwi_Salad": {
 					"Name": "Umuwi Salad",
 					"Displayname": "{{i18n:LASV_Umuwi_Salad}}",
-					"Description": "{{i18n:LASV_Umuwi_Salad.Description}}",
+					"Description": "{{i18n:LASV_Umuwi_Salad_Description}}",
 					"Type": "Cooking",
 					"Category": -7,
 					"Price": 400,
@@ -526,7 +526,7 @@
 				"LASV_Eggroot_Seeds": {
 			    "Name": "Eggroot Seeds",
 			    "DisplayName": "{{i18n:LASV_Eggroot_Seeds}}",
-			    "Description": "{{i18n:LASV_Eggroot_Seeds.Description}}",
+			    "Description": "{{i18n:LASV_Eggroot_Seeds_Description}}",
 			    "Type": "Basic",
 			    "Category": -74,
 			    "Price": 180,
@@ -538,7 +538,7 @@
 			  	"LASV_Ghost_Cabbage_Seeds": {
 			    "Name": "Ghost Cabbage Seeds",
 			    "DisplayName": "{{i18n:LASV_Ghost_Cabbage_Seeds}}",
-			    "Description": "{{i18n:LASV_Ghost_Cabbage_Seeds.Description}}",
+			    "Description": "{{i18n:LASV_Ghost_Cabbage_Seeds_Description}}",
 			    "Type": "Basic",
 			    "Category": -74,
 			    "Price": 100,
@@ -550,7 +550,7 @@
 			  	"LASV_Pale_Berry_Seeds": {
 			    "Name": "Pale Berry Seeds",
 			    "DisplayName": "{{i18n:LASV_Pale_Berry_Seeds}}",
-			    "Description": "{{i18n:LASV_Pale_Berry_Seeds.Description}}",
+			    "Description": "{{i18n:LASV_Pale_Berry_Seeds_Description}}",
 			    "Type": "Basic",
 			    "Category": -74,
 			    "Price": 110,
@@ -562,7 +562,7 @@
 			  	"LASV_Sour_Potato_Seeds": {
 			    "Name": "Sour Potato Seeds",
 			    "DisplayName": "{{i18n:LASV_Sour_Potato_Seeds}}",
-			    "Description": "{{i18n:LASV_Sour_Potato_Seeds.Description}}",
+			    "Description": "{{i18n:LASV_Sour_Potato_Seeds_Description}}",
 			    "Type": "Basic",
 			    "Category": -74,
 			    "Price": 70,
@@ -574,7 +574,7 @@
 			  	"LASV_Thorn_Pepper_Seeds": {
 			    "Name": "Thorn Pepper Seeds",
 			    "DisplayName": "{{i18n:LASV_Thorn_Pepper_Seeds}}",
-			    "Description": "{{i18n:LASV_Thorn_Pepper_Seeds.Description}}",
+			    "Description": "{{i18n:LASV_Thorn_Pepper_Seeds_Description}}",
 			    "Type": "Basic",
 			    "Category": -74,
 			    "Price": 100,
@@ -586,7 +586,7 @@
 			  	"LASV_Umuwi_Lanzones_Sapling": {
 			    "Name": "Umuwi Lanzones Sapling",
 			    "DisplayName": "{{i18n:LASV_Umuwi_Lanzones_Sapling}}",
-			    "Description": "{{i18n:LASV_Umuwi_Lanzones_Sapling.Description}}",
+			    "Description": "{{i18n:LASV_Umuwi_Lanzones_Sapling_Description}}",
 			    "Type": "Basic",
 			    "Category": -74,
 			    "Price": 5000,
@@ -598,7 +598,7 @@
 			  	"LASV_Umuwi_Rambutan_Sapling": {
 			    "Name": "Umuwi Rambutan Sapling",
 			    "DisplayName": "{{i18n:LASV_Umuwi_Rambutan_Sapling}}",
-			    "Description": "{{i18n:LASV_Umuwi_Rambutan_Sapling.Description}}",
+			    "Description": "{{i18n:LASV_Umuwi_Rambutan_Sapling_Description}}",
 			    "Type": "Basic",
 			    "Category": -74,
 			    "Price": 7000,
