@@ -357,24 +357,18 @@
 			"Action": "EditData",
 			"Target": "Data/AquariumFish",
 			"Entries": {
-				"LASV_Umuwi_Carp": "124/fish",
-				"LASV_Serafin": "125/fish",
-				"LASV_Relicantlette": "126/fish",
-				"LASV_Purple_Spotted_Trout": "127/fish",
-				"LASV_Dewdrop_Fish": "128/fish"
+				"LASV_Umuwi_Carp": "0/fish/////LASV\\AquariumFish",
+				"LASV_Serafin": "1/fish/////LASV\\AquariumFish",
+				"LASV_Relicantlette": "2/fish/////LASV\\AquariumFish",
+				"LASV_Purple_Spotted_Trout": "3/fish/////LASV\\AquariumFish",
+				"LASV_Dewdrop_Fish": "4/fish/////LASV\\AquariumFish"
 			}
 		},
 		{
 			"LogName": "Aquarium Sprites",
-			"Action": "EditImage",
-			"Target": "LooseSprites/AquariumFish",
+			"Action": "Load",
+			"Target": "LASV/AquariumFish",
 			"FromFile": "assets/Umuwi_aquarium_fish.png",
-			"ToArea": {
-				"X": 96,
-				"Y": 288,
-				"Width": 120,
-				"Height": 48
-			}
 		},
 	]
 }
