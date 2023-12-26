@@ -71,24 +71,28 @@
 							"Id": "LASV_Pale_Berry_Pies (Recipe)",
 							"ItemId": "(O)LASV_Pale_Berry_Pies",
 							"Price": 5000,
+							"IsRecipe": true,
 							"Condition": "PLAYER_HEARTS Current Bianka 8"
 						},
 						{
 							"Id": "LASV_Sour_Hashbrown (Recipe)",
 							"ItemId": "(O)LASV_Sour_Hashbrown",
 							"Price": 5000,
+							"IsRecipe": true,
 							"Condition": "PLAYER_HEARTS Current Bianka 8"
 						},
 						{
 							"Id": "LASV_Umuwi_Mash (Recipe)",
 							"ItemId": "(O)LASV_Umuwi_Mash",
 							"Price": 5000,
+							"IsRecipe": true,
 							"Condition": "PLAYER_HEARTS Current Raphael 8"
 						},
 						{
 							"Id": "LASV_Umuwi_Salad(Recipe)",
 							"ItemId": "(O)LASV_Umuwi_Salad",
 							"Price": 5000,
+							"IsRecipe": true,
 							"Condition": "PLAYER_HEARTS Current Raphael 8"
 						},
 					],
