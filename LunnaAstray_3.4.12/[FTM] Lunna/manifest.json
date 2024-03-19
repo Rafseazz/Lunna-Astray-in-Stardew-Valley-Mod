@@ -4,7 +4,7 @@
   "Version": "3.4.0",
   "Description": "FTM for LASV",
   "UniqueID": "Rafseazz.LunnaFTM",
-  "MinimumApiVersion": "3.0",
+  "MinimumApiVersion": "4.0.0-alpha",
   "UpdateKeys": [ "Nexus:-1" ],
   "ContentPackFor": {
     "UniqueID": "Esca.FarmTypeManager",
