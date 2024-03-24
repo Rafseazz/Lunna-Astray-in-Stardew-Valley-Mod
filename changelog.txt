@@ -1,2 +1,3 @@
-3.4.11
-Removed Void Essence in Raphael's Shop
+3.4.12
+Updated to be compatible with SDV 1.6
+Removed STF & JA as dependencies
