@@ -7,6 +7,12 @@
 			"Target": "LASV/Objects",
 			"FromFile": "assets/Objects/Objects.png"
 		},
+		{
+            "LogName": "Load PortraitFrames Tilesheet",
+            "Action": "Load",
+            "Target": "LASV/Objects/PortraitFrames",
+            "FromFile": "assets/Objects/PortraitFrames.png"
+        },
 
 		//Add fishes
 		{
@@ -607,6 +613,17 @@
 			    "Edibility": -300,
 			    "IsDrink": false,
 			  }
+			},
+		},
+
+		//Add portrait frames
+		{
+			"Action": "EditData",
+			"Target": "Data/Furniture",
+			"Entries": {
+				"LASV_LunnaPortrait": "LunnaPortrait/painting/2 2/2 2/1/999/-1/{{i18n:furniture.Lunnaportrait.name}}/0/LASV\\Objects\\PortraitFrames",
+                "LASV_BiankaPortrait": "BiankaPortrait/painting/2 2/2 2/1/999/-1/{{i18n:furniture.Biankaportrait.name}}/2/LASV\\Objects\\PortraitFrames",
+                "LASV_RaphaelPortrait": "RaphaelPortrait/painting/2 2/2 2/1/999/-1/{{i18n:furniture.Raphaelportrait.name}}/4/LASV\\Objects\\PortraitFrames",
 			},
 		},
 

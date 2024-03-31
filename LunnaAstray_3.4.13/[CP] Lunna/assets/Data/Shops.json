@@ -125,6 +125,52 @@
 					],
 				}
 			}
-		}
+		},
+
+		//Edit traveler shop
+		{
+        "LogName": "Add LASV Spouse Portrait Frames to Travelling Merchant",
+        "Action": "EditData",
+        "Target": "Data/Shops",
+        "TargetField": [ "Traveler", "Items" ],
+        "Entries": {
+          "LASV_LunnaPortrait.ShopItem": {
+            "Id": "LASV_LunnaPortrait.ShopItem",
+            "ItemId": "(F)LASV_LunnaPortrait",
+            "TradeItemAmount": 1,
+            "Price": 30000,
+            "AvailableStock": 1,
+            "AvailableStockLimit": "Player",
+            "PriceModifierMode": "Stack",
+            "AvailableStockModifierMode": "Stack",
+            "Condition": "PLAYER_HEARTS Current Lunna 14",
+          },
+
+          "LASV_BiankaPortrait.ShopItem": {
+            "Id": "LASV_BiankaPortrait.ShopItem",
+            "ItemId": "(F)LASV_BiankaPortrait",
+            "TradeItemAmount": 1,
+            "Price": 30000,
+            "AvailableStock": 1,
+            "AvailableStockLimit": "Player",
+            "PriceModifierMode": "Stack",
+            "AvailableStockModifierMode": "Stack",
+            "Condition": "PLAYER_HEARTS Current Bianka 14",
+          },
+
+          "LASV_RaphaelPortrait.ShopItem": {
+            "Id": "LASV_RaphaelPortrait.ShopItem",
+            "ItemId": "(F)LASV_RaphaelPortrait",
+            "TradeItemAmount": 1,
+            "Price": 30000,
+            "AvailableStock": 1,
+            "AvailableStockLimit": "Player",
+            "PriceModifierMode": "Stack",
+            "AvailableStockModifierMode": "Stack",
+            "Condition": "PLAYER_HEARTS Current Raphael 14",
+          },
+
+        }
+      },
 	]
 }

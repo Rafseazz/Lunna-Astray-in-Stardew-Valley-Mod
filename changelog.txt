@@ -1,4 +1,5 @@
 3.4.13
+Added LASV Spouse Portrait Frames
 Fixed bug in Lunna and Abigail's event
 Fixed bug where LASV spouses don't go home at night
 Fixed bug where Forest Pond fishes didn't spawn when LASV is installed

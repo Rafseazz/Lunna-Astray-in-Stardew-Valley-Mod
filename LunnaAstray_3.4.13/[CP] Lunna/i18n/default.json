@@ -1964,4 +1964,9 @@
   "LASV_Void_Blessed_Hammer_Description": "It is quite heavy and hard to use",
   "LASV_Void_Blessed_Sword_Description": "It is extremely light and very sharp.",
 
+  //Portrait frames
+  "furniture.Lunnaportrait.name": "Lunna Portrait",
+  "furniture.Biankaportrait.name": "Bianka Portrait",
+  "furniture.Raphaelportrait.name": "Raphael Portrait",
+
 }
