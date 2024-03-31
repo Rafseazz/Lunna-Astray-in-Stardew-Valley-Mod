@@ -13,7 +13,7 @@
 	"rain": "610 Custom_LASV_BiankaHouse 4 5 0/800 Custom_LASV_OddiHouse 7 7 1/1200 Custom_LASV_ReenusHouse 11 7 0/1500 Custom_LASV_BiankaHouse 4 5 0/2000 Custom_LASV_BiankaHouse 2 12 2 raphael_sleep",
 	
 	//Marriage sched
-	"marriage_Mon": "800 Blacksmith 9 15 2/1800 Saloon 19 21 0/2200 BusStop -1 23 3",
-	"marriage_Wed": "800 Blacksmith 9 15 2/1800 Saloon 19 21 0/2200 BusStop -1 23 3",
-	"marriage_Fri": "800 Blacksmith 9 15 2/1800 Saloon 19 21 0/2200 BusStop -1 23 3"
+	"marriage_Mon": "800 Blacksmith 9 15 2/1800 Saloon 19 21 0/2200 bed",
+	"marriage_Wed": "800 Blacksmith 9 15 2/1800 Saloon 19 21 0/2200 bed",
+	"marriage_Fri": "800 Blacksmith 9 15 2/1800 Saloon 19 21 0/2200 bed"
 }
