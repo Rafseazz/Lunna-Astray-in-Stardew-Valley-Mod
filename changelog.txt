@@ -1,3 +1,2 @@
-3.4.12
-Updated to be compatible with SDV 1.6
-Removed STF & JA as dependencies
+3.4.13
+Fixed bug in Lunna and Abigail's event
