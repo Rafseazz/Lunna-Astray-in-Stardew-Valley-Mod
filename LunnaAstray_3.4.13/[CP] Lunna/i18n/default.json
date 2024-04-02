@@ -1583,7 +1583,16 @@
 "mail.LASV.2": "Good day @,^^I require your assistance for a certain spell. This is regarding the ancient magic I mentioned about Lunna. Come by my tower at your earliest convenience^^-M. Rasmodius, Wizard",
 "mail.LASV.3": "Hey @,^^Um, can you meet me at the Falls Cave at Umuwi later tonight? 8 PM sharp, GOT THAT? I want to show you something.^^< Bianka",
 
-//Question for Non Romance with Lunna for Passage to Umuwi  "event-75160011.01": "Suppose this is the way...",  "event-75160011.02": "Oh, hello there, @.#$b#I was in the middle of researching some ancient magic",  "event-75160011.03": "My apologies, @. It seems I was lost deep in my thoughts.#$b#I have a certain magical problem regarding the ancient magic on Lunna",  "event-75160011.04": "What about Lunna, you ask?#$b#For now, it is none of your concern.",  "event-75160011.05": "May I ask: do you plan to romantically pursue Lunna?",  "event-75160011.06": "Do you have romantic intentions towards Lunna?",  "event-75160011.07": "Yes, I do.",  "event-75160011.08": "No, I don't.",  "event-75160011.09": "Hmm. Well, I am sorry, @. But I will need to kindly ask you to leave for now.#$b#I have some studies to attend to.",
+//Question for Non Romance with Lunna for Passage to Umuwi  
+"event-75160011.01": "Suppose this is the way...",  
+"event-75160011.02": "Oh, hello there, @.#$b#I was in the middle of researching some ancient magic",  
+"event-75160011.03": "My apologies, @. It seems I was lost deep in my thoughts.#$b#I have a certain magical problem regarding the ancient magic on Lunna",  
+"event-75160011.04": "What about Lunna, you ask?#$b#For now, it is none of your concern.",  
+"event-75160011.05": "May I ask: do you plan to romantically pursue Lunna?",  
+"event-75160011.06": "Do you have romantic intentions towards Lunna?",  
+"event-75160011.07": "Yes, I do.",  
+"event-75160011.08": "No, I don't.",  
+"event-75160011.09": "Hmm. Well, I am sorry, @. But I will need to kindly ask you to leave for now.#$b#I have some studies to attend to.",
 
 //Wizard finds something special about farmer Part2
   "event-75160009.01": "...and we would have...",
